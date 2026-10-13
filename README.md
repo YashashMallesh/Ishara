@@ -58,6 +58,19 @@ Opens **[http://localhost:5000](http://localhost:5000)** in your browser.
 - `B`: Toggle Screen Blackout
 - `Home` / `End`: Jump to First / Last Slide
 
+## Contributors
+<a href="https://github.com/YashashMallesh" >Yashash
+  <img src="https://avatars.githubusercontent.com/u/191120109?v=4" />
+</a>
+<a href="https://github.com/Yashwanth2947" >Yashwanth
+  <img src="https://avatars.githubusercontent.com/u/338127809?v=4" />
+</a>
+<a href="https://github.com/navaminagaraja23-ops" >Navami
+  <img src="https://avatars.githubusercontent.com/u/330734560?v=4">
+</a>
+<a href="https://github.com/samikshareddy76-blip" >Samiksha
+  <img src="[https://avatars.githubusercontent.com/u/330734560?v=4](https://avatars.githubusercontent.com/u/293739713?v=4)">
+</a>
 ## Version 1
 - Github Repo: https://github.com/navaminagaraja23-ops/gesture-presenter
 - Beyond Touch Blog URL : https://yashashmallesh.github.io/Beyond-touch/
