@@ -69,7 +69,7 @@ Opens **[http://localhost:5000](http://localhost:5000)** in your browser.
   <img src="https://avatars.githubusercontent.com/u/330734560?v=4">
 </a>
 <a href="https://github.com/samikshareddy76-blip" >Samiksha
-  <img src="[https://avatars.githubusercontent.com/u/330734560?v=4](https://avatars.githubusercontent.com/u/293739713?v=4)">
+  <img src="https://avatars.githubusercontent.com/u/293739713?v=4">
 </a>
 ## Version 1
 - Github Repo: https://github.com/navaminagaraja23-ops/gesture-presenter
