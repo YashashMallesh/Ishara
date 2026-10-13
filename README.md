@@ -61,4 +61,4 @@ Opens **[http://localhost:5000](http://localhost:5000)** in your browser.
 
 ## Version 1
 - Github Repo: https://github.com/navaminagaraja23-ops/gesture-presenter
--> Beyond Touch Blog URL : https://yashashmallesh.github.io/Beyond-touch/
+- Beyond Touch Blog URL : https://yashashmallesh.github.io/Beyond-touch/
