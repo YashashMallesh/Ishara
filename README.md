@@ -56,6 +56,9 @@ Opens **[http://localhost:5000](http://localhost:5000)** in your browser.
 - `Right Arrow` / `Space` / `Page Down`: Next Slide
 - `Left Arrow` / `Page Up`: Previous Slide
 - `F`: Toggle Fullscreen Presentation Mode
+
+## Version 1
+- Github Repo: https://github.com/navaminagaraja23-ops/gesture-presenter
 - `B`: Toggle Screen Blackout
 - `Home` / `End`: Jump to First / Last Slide
 
