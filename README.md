@@ -20,7 +20,6 @@ A sleek, distraction-free slide presentation web application powered by **MediaP
 ---
 
 ## 🚀 Quick Start
-
 ### 1. Launch with One Click
 Double-click `run_webapp.bat` or run:
 ```bash
