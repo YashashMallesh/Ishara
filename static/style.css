@@ -1,0 +1,97 @@
+/* Minimalist Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Slide Transitions */
+#slide-viewport {
+  transition: opacity 0.25s ease-out, transform 0.25s ease-out;
+}
+
+.slide-transition-enter {
+  animation: slideFadeIn 0.28s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes slideFadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(8px) scale(0.995);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Minimalist Themes */
+.theme-dark {
+  background: #09090b !important;
+  color: #fafafa !important;
+}
+
+.theme-slate {
+  background: #0f172a !important;
+  color: #f8fafc !important;
+}
+
+.theme-indigo {
+  background: #090d16 !important;
+  color: #f8fafc !important;
+}
+
+.theme-emerald {
+  background: #06140f !important;
+  color: #f8fafc !important;
+}
+
+/* Active Slide Thumbnail Pill */
+.thumb-pill.active-thumb {
+  background: #ffffff !important;
+  color: #09090b !important;
+  border-color: #ffffff !important;
+  font-weight: 600 !important;
+}
+
+/* Fullscreen Stage Presentation Mode */
+:fullscreen #presentation-stage,
+:-webkit-full-screen #presentation-stage {
+  max-height: 100vh !important;
+  height: 100vh !important;
+  width: 100vw !important;
+  border-radius: 0 !important;
+  border: none !important;
+  aspect-ratio: auto !important;
+}
+
+:fullscreen #presentation-stage #slide-viewport,
+:-webkit-full-screen #presentation-stage #slide-viewport {
+  padding: 4rem 6rem !important;
+}
+
+/* Collapsed PiP */
+.pip-collapsed #pip-video-container,
+.pip-collapsed #pip-status-bar {
+  display: none !important;
+}
+.pip-collapsed {
+  width: auto !important;
+}
