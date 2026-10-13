@@ -58,3 +58,5 @@ Opens **[http://localhost:5000](http://localhost:5000)** in your browser.
 - `F`: Toggle Fullscreen Presentation Mode
 - `B`: Toggle Screen Blackout
 - `Home` / `End`: Jump to First / Last Slide
+
+  -> Beyond Touch Blog URL : https://yashashmallesh.github.io/Beyond-touch/
